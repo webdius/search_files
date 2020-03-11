@@ -1,4 +1,5 @@
 <?
+/* Adding comments */
 if(isset($_COOKIE['filesizes']) || isset($_GET['show_all'])){
 	function isTypePhp($file){
 		$formats = ['php','html','htm','htaccess','txt','xml'];
